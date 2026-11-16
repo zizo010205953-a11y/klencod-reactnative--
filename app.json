@@ -1,0 +1,5 @@
+{
+  "name": "App",
+  "displayName": "حساباتي",
+  "android": {"packageName": "com.zizo.myapp"}
+}
